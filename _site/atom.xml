@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>邦涛的博客</title>
+  <link href="//zhoubangtao.github.io//atom.xml" rel="self"/>
+  <link href="//zhoubangtao.github.io"/>
+  <updated>2015-03-02T14:14:02+08:00</updated>
+  <id>//zhoubangtao.github.io</id>
+  <author>
+    <name>Nathan</name>
+  </author>
+
+  
+
+</feed>
